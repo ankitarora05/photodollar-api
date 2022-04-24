@@ -1,6 +1,6 @@
 # photodollar-api
 
-Share photos, videos, audio, podcasts, magazines, books or links on Photodollar social media by recording through the [App](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_US&gl=US) , importing from your device, or uploading to photodollar.in.
+Share photos, videos, audio, podcasts, magazines, books or links on Photodollar social media by recording through the [App](https://photodollar.in/responses/5ead9582124ab107e3145b6e) , importing from your device, or uploading to photodollar.in.
 
 Watch the latest breaking news, analysis and the top news, entertainment and sports video clips online at [Photodollar PDTV](https://photodollar.in/pdtv)
 
