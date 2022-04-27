@@ -6,4 +6,4 @@ Watch the latest breaking news, analysis and the top news, entertainment and spo
 
 Listen to trending new music and podcasts playlist on [Photodollar Radio](https://photodollar.in/radio). Stream audio tracks, albums, playlists on desktop and mobile.
 
-Explore trending and latest [digital magazines](https://photodollar.in/magazines), newspapers and books online free through the Photodollar Document Reader on Desktops, Tablets, Android and iOS devices.
+Explore trending and latest [digital magazines](https://photodollar.in/requests/62686b95f661ab2c56af19eb), newspapers and books online free through the Photodollar Document Reader on Desktops, Tablets, Android and iOS devices.
