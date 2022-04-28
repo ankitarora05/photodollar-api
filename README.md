@@ -8,4 +8,6 @@ Listen to trending new music and podcasts playlist on [Photodollar Radio](https:
 
 Explore trending and latest [digital magazines](https://photodollar.in/requests/62686b95f661ab2c56af19eb), newspapers and books online free through the Photodollar Document Reader on Desktops, Tablets, Android and iOS devices.
 
+[Beware of malicious ads](https://www.cnbc.com/2022/03/24/google-employees-bombard-execs-about-pay-at-recent-all-hands-meeting.html)
+
 [Post](https://photodollar.in)  |  [PDTV](https://photodollar.in/pdtv)  |  [Radio](https://photodollar.in/radio)  |  [Books & Magazines](https://photodollar.in/magazines)
