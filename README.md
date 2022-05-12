@@ -12,6 +12,8 @@ Explore trending and latest [digital magazines](https://photodollar.in/requests/
 
 [Beware of malicious ads](https://www.cnbc.com/2022/03/24/google-employees-bombard-execs-about-pay-at-recent-all-hands-meeting.html)
 
+[How and Why Companies Become Monopolies](https://photodollar.in/requests/627d706609845e278b0b853a)
+
 [Creative Commons Attribution-ShareAlike 3.0 Unported License(PDF)](https://photodollar.in/requests/6274e5bd09845e278b0b830b)
 
 [Post](https://photodollar.in)  |  [PDTV](https://photodollar.in/pdtv)  |  [Radio](https://photodollar.in/radio)  |  [Books & Magazines](https://photodollar.in/magazines)
