@@ -2,6 +2,8 @@
 
 [photodollar.in](https://photodollar.in)
 
+[What's trending?](https://photodollar.in/trending)
+
 Photodollar social media enables people to share, connect, binge [PDTV](https://photodollar.in/pdtv) and listen digital [Radio](https://photodollar.in/radio).
 
 Watch the latest breaking news, analysis and the top news, entertainment and sports video clips online at [Photodollar PDTV](https://photodollar.in/responses/626a38e009845e278b0b80fc)
