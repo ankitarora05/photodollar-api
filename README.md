@@ -1,6 +1,8 @@
 # photodollar-api
 
-Share photos, videos, audio, podcasts, magazines, books or links on Photodollar social media by recording through the [App](https://photodollar.in/responses/5ead9582124ab107e3145b6e) , importing from your device, or uploading to photodollar.in.
+[photodollar.in](https://photodollar.in)
+
+Photodollar social media enables people to share, connect, binge [PDTV](https://photodollar.in/pdtv) and listen digital [Radio](https://photodollar.in/radio).
 
 Watch the latest breaking news, analysis and the top news, entertainment and sports video clips online at [Photodollar PDTV](https://photodollar.in/responses/626a38e009845e278b0b80fc)
 
@@ -16,4 +18,4 @@ Explore trending and latest [digital magazines](https://photodollar.in/requests/
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported License(PDF)](https://photodollar.in/requests/6274e5bd09845e278b0b830b)
 
-[Post](https://photodollar.in)  |  [PDTV](https://photodollar.in/pdtv)  |  [Radio](https://photodollar.in/radio)  |  [Books & Magazines](https://photodollar.in/magazines)
+[Post](https://photodollar.in)  |  [PDTV](https://photodollar.in/pdtv)  |  [Trending](https://photodollar.in/trending) | [Radio](https://photodollar.in/radio)  |  [Books & Magazines](https://photodollar.in/magazines)
