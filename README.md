@@ -22,4 +22,4 @@ Explore trending and latest [digital magazines](https://photodollar.in/requests/
 
 [Post](https://photodollar.in)  |  [PDTV](https://photodollar.in/pdtv)  |  [Trending](https://photodollar.in/trending) | [Radio](https://photodollar.in/radio)  |  [Books & Magazines](https://photodollar.in/magazines)
 
-Follow me on Photodollar(https://photodollar.in/ankitarora)
+[Follow me on Photodollar](https://photodollar.in/ankitarora)
