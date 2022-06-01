@@ -2,7 +2,7 @@
 
 [photodollar.in](https://photodollar.in)
 
-Get [Photodollar Android App](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_IN&gl=US) from google's android apps store.
+Get [Photodollar android app](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_IN&gl=US) from google's android apps store.
 
 [What's trending?](https://photodollar.in/trending)
 
